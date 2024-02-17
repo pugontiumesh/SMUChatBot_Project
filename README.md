@@ -42,3 +42,4 @@ This project wouldn't have been possible without the following resources and too
 -And all the [YouTube tutorials](https://www.youtube.com/playlist?list=PLMVV8yyL2GN_n41v1ESBvDHwMbYYhlAh1) and free articles I found to create this project (more resources to come soon)
 
 
+run command: streamlit run hosted-app.py --server.enableCORS false --server.enableXsrfProtection false
